@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BerichtsheftApp</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 01 Jul 2026 21:50:51 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Neobau-Digital-GmbH/Berichtsheft-Solutions/main/Berichtsheft-1.0.zip" length="2916995" type="application/octet-stream" sparkle:edSignature="9kUQ2T/NcRGzYonu3BRp1tVTDlWN1qd37JFIhG2cRIYiEJsmrhVmw9XITpdjs267NIak4j216MT5SpJI+8VBDA=="/>
+        </item>
+    </channel>
+</rss>
