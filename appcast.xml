@@ -3,6 +3,19 @@
     <channel>
         <title>BerichtsheftApp</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 02 Jul 2026 16:47:03 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Neobau-Digital-GmbH/Berichtsheft-Solutions/main/Berichtsheft-1.2.zip" length="2997618" type="application/octet-stream" sparkle:edSignature="0aMzy1zrRNOeiWjsqb69FyBWVlicEellDo2Km28BKWp9E3W6uycS9FStG7oTGL5H4uZ4q0t4KfJn84F4Eo75BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Neobau-Digital-GmbH/Berichtsheft-Solutions/main/BerichtsheftApp3-2.delta" sparkle:deltaFrom="2" length="153750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u3BuvCNBdaulAShD022Z0dmmnu95nsIa1Av3dUoUjaPO4Cl/eTFLM+WyQWwa1J2yxGlE8crMLkfRXwu2PjkMBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Neobau-Digital-GmbH/Berichtsheft-Solutions/main/BerichtsheftApp3-1.delta" sparkle:deltaFrom="1" length="194886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bi9feXumFMId/QLb92KD42TzfM582QhzTlGLtNP4DEPV2QAdC4JQTnRjvpaLb2KWIy3rDR7HO7aq0n81NhUiCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Thu, 02 Jul 2026 02:15:24 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
